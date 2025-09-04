@@ -1,0 +1,217 @@
+{
+  "01": {
+    "il_kodu": "01",
+    "il_adi": "Adana",
+    "plaka_no": "01",
+    "genel_skor": 0.75,
+    "kategori_skorlari": {
+      "egitim": 0.72,
+      "saglik": 0.68,
+      "sanayi": 0.85,
+      "tarim": 0.75
+    },
+    "istatistikler": {
+      "egitim": {
+        "universite_sayisi": 8,
+        "ogrenci_sayisi": 120000,
+        "ogretmen_sayisi": 15000,
+        "okuryazarlik_orani": 94.5
+      },
+      "saglik": {
+        "hastane_sayisi": 45,
+        "doktor_sayisi": 3200,
+        "kisi_basina_doktor": 650,
+        "yotak_sayisi": 8500
+      },
+      "sanayi": {
+        "fabrika_sayisi": 2800,
+        "isci_sayisi": 180000,
+        "ihracat_degeri": 4500000000,
+        "sanayi_uretimi": 85
+      },
+      "tarim": {
+        "tarimsal_alan": 850000,
+        "uretim_miktari": 2800000,
+        "hayvan_sayisi": 450000,
+        "ciftci_sayisi": 75000
+      }
+    },
+    "oneriler": [
+      "Tarım teknolojilerinde yenilikçi çözümler",
+      "Sanayi 4.0 uygulamaları için uygun ortam",
+      "Lojistik merkezi potansiyeli yüksek"
+    ]
+  },
+  "06": {
+    "il_kodu": "06",
+    "il_adi": "Ankara",
+    "plaka_no": "06",
+    "genel_skor": 0.89,
+    "kategori_skorlari": {
+      "egitim": 0.95,
+      "saglik": 0.88,
+      "sanayi": 0.82,
+      "tarim": 0.68
+    },
+    "istatistikler": {
+      "egitim": {
+        "universite_sayisi": 25,
+        "ogrenci_sayisi": 450000,
+        "ogretmen_sayisi": 45000,
+        "okuryazarlik_orani": 98.2
+      },
+      "saglik": {
+        "hastane_sayisi": 85,
+        "doktor_sayisi": 12000,
+        "kisi_basina_doktor": 450,
+        "yotak_sayisi": 18500
+      },
+      "sanayi": {
+        "fabrika_sayisi": 1800,
+        "isci_sayisi": 220000,
+        "ihracat_degeri": 6200000000,
+        "sanayi_uretimi": 92
+      },
+      "tarim": {
+        "tarimsal_alan": 650000,
+        "uretim_miktari": 1200000,
+        "hayvan_sayisi": 280000,
+        "ciftci_sayisi": 45000
+      }
+    },
+    "oneriler": [
+      "Teknoloji ve inovasyon merkezi",
+      "Yüksek teknoloji üretimi için ideal",
+      "Ar-Ge yatırımları için uygun ortam"
+    ]
+  },
+  "34": {
+    "il_kodu": "34",
+    "il_adi": "İstanbul",
+    "plaka_no": "34",
+    "genel_skor": 0.92,
+    "kategori_skorlari": {
+      "egitim": 0.88,
+      "saglik": 0.85,
+      "sanayi": 0.95,
+      "tarim": 0.35
+    },
+    "istatistikler": {
+      "egitim": {
+        "universite_sayisi": 65,
+        "ogrenci_sayisi": 850000,
+        "ogretmen_sayisi": 95000,
+        "okuryazarlik_orani": 97.8
+      },
+      "saglik": {
+        "hastane_sayisi": 285,
+        "doktor_sayisi": 35000,
+        "kisi_basina_doktor": 430,
+        "yotak_sayisi": 48500
+      },
+      "sanayi": {
+        "fabrika_sayisi": 8500,
+        "isci_sayisi": 1200000,
+        "ihracat_degeri": 45000000000,
+        "sanayi_uretimi": 98
+      },
+      "tarim": {
+        "tarimsal_alan": 125000,
+        "uretim_miktari": 180000,
+        "hayvan_sayisi": 45000,
+        "ciftci_sayisi": 8500
+      }
+    },
+    "oneriler": [
+      "Finans ve teknoloji merkezi",
+      "Global ticaret ve lojistik hub'ı",
+      "Yüksek katma değerli hizmet sektörü"
+    ]
+  },
+  "35": {
+    "il_kodu": "35",
+    "il_adi": "İzmir",
+    "plaka_no": "35",
+    "genel_skor": 0.84,
+    "kategori_skorlari": {
+      "egitim": 0.85,
+      "saglik": 0.82,
+      "sanayi": 0.88,
+      "tarim": 0.78
+    },
+    "istatistikler": {
+      "egitim": {
+        "universite_sayisi": 18,
+        "ogrenci_sayisi": 280000,
+        "ogretmen_sayisi": 32000,
+        "okuryazarlik_orani": 96.5
+      },
+      "saglik": {
+        "hastane_sayisi": 125,
+        "doktor_sayisi": 8500,
+        "kisi_basina_doktor": 500,
+        "yotak_sayisi": 22500
+      },
+      "sanayi": {
+        "fabrika_sayisi": 4200,
+        "isci_sayisi": 420000,
+        "ihracat_degeri": 12500000000,
+        "sanayi_uretimi": 88
+      },
+      "tarim": {
+        "tarimsal_alan": 580000,
+        "uretim_miktari": 1850000,
+        "hayvan_sayisi": 380000,
+        "ciftci_sayisi": 68000
+      }
+    },
+    "oneriler": [
+      "Kimya ve petrokimya endüstrisi",
+      "Tarım-gıda sanayi merkezi",
+      "Liman ve lojistik yatırımları"
+    ]
+  },
+  "42": {
+    "il_kodu": "42",
+    "il_adi": "Konya",
+    "plaka_no": "42",
+    "genel_skor": 0.68,
+    "kategori_skorlari": {
+      "egitim": 0.65,
+      "saglik": 0.62,
+      "sanayi": 0.72,
+      "tarim": 0.92
+    },
+    "istatistikler": {
+      "egitim": {
+        "universite_sayisi": 12,
+        "ogrenci_sayisi": 180000,
+        "ogretmen_sayisi": 22000,
+        "okuryazarlik_orani": 93.2
+      },
+      "saglik": {
+        "hastane_sayisi": 68,
+        "doktor_sayisi": 4200,
+        "kisi_basina_doktor": 520,
+        "yotak_sayisi": 12500
+      },
+      "sanayi": {
+        "fabrika_sayisi": 2200,
+        "isci_sayisi": 285000,
+        "ihracat_degeri": 3800000000,
+        "sanayi_uretimi": 72
+      },
+      "tarim": {
+        "tarimsal_alan": 1850000,
+        "uretim_miktari": 4200000,
+        "hayvan_sayisi": 850000,
+        "ciftci_sayisi": 125000
+      }
+    },
+    "oneriler": [
+      "Tarımsal teknoloji merkezi",
+      "Gıda işleme ve ambalaj sanayi",
+      "Organik tarım ve hayvancılık"
+    ]
+  }
+}

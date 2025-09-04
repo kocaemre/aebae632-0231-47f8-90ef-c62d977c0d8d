@@ -1,0 +1,34 @@
+[
+  {
+    "id": "egitim",
+    "ad": "Eğitim",
+    "aciklama": "Üniversite sayısı, öğrenci sayısı ve eğitim kalitesi",
+    "icon": "📚",
+    "renk": "#3B82F6",
+    "aktif": false
+  },
+  {
+    "id": "sanayi",
+    "ad": "Sanayi",
+    "aciklama": "Fabrika sayısı, işçi sayısı ve sanayi üretimi",
+    "icon": "🏭",
+    "renk": "#8B5CF6",
+    "aktif": false
+  },
+  {
+    "id": "tarim",
+    "ad": "Tarım ve Hayvancılık",
+    "aciklama": "Tarımsal alan, üretim miktarı ve hayvan sayısı",
+    "icon": "🌱",
+    "renk": "#10B981",
+    "aktif": false
+  },
+  {
+    "id": "saglik",
+    "ad": "Sağlık",
+    "aciklama": "Hastane sayısı, doktor sayısı ve sağlık hizmetleri",
+    "icon": "🏥",
+    "renk": "#EF4444",
+    "aktif": false
+  }
+]
