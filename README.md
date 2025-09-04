@@ -8,8 +8,8 @@ Not : database bilgileri,gemini api key bilgilerini herkese açık bir şekilde 
 
 Bu bilgilerin olduğu .env dosyasına ve veritabanına erişmek için lütfen ekip üyelerimizden birine mesaj atınız : 
 
-oguzhan57_erdem@outlook.com
 emrekoca2003@gmail.com
+oguzhan57_erdem@outlook.com
 yatogami47001@gmail.com
 semi.merzi05@gmail.com
 
