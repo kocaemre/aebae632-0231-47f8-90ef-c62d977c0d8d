@@ -13,6 +13,9 @@ oguzhan57_erdem@outlook.com
 yatogami47001@gmail.com
 semi.merzi05@gmail.com
 
+Veritabanı eklerken : psql -U kullanici_adi -h localhost -p 5432 -d yeni_veritabani_adi -f yatirim_projesi_db_backup.sql 
+yapmalısınız
+
 **Sekase** (Sosyo-Ekonomik Analiz Sistemi), Türkiye'nin 81 ilinin çeşitli kategorilerdeki verilerini analiz ederek yatırım potansiyelini gösteren interaktif harita uygulamasıdır. Bu platform, kullanıcıların seçtikleri kategorilere göre dinamik analiz yapmalarını ve detaylı il bilgilerini görselleştirmelerini sağlar.
 
 ### 🎯 Ana Özellikler
