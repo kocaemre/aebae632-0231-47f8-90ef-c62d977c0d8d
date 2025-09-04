@@ -2,6 +2,17 @@
 
 ## 📋 Proje Genel Bakış
 
+### DEMO : https://aebae632-0231-47f8-90ef-c62d977c0d8.vercel.app/
+
+Not : database bilgileri,gemini api key bilgilerini herkese açık bir şekilde paylaşmak verilerin güvenliği açısından risk oluşturmaktadır.
+
+Bu bilgilerin olduğu .env dosyasına ve veritabanına erişmek için lütfen ekip üyelerimizden birine mesaj atınız : 
+
+oguzhan57_erdem@outlook.com
+emrekoca2003@gmail.com
+yatogami47001@gmail.com
+semi.merzi05@gmail.com
+
 **Sekase** (Sosyo-Ekonomik Analiz Sistemi), Türkiye'nin 81 ilinin çeşitli kategorilerdeki verilerini analiz ederek yatırım potansiyelini gösteren interaktif harita uygulamasıdır. Bu platform, kullanıcıların seçtikleri kategorilere göre dinamik analiz yapmalarını ve detaylı il bilgilerini görselleştirmelerini sağlar.
 
 ### 🎯 Ana Özellikler
